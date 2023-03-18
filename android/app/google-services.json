@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "593862575380",
+    "project_id": "locotour-5cdce",
+    "storage_bucket": "locotour-5cdce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593862575380:android:52b3a468019cdc46052e01",
+        "android_client_info": {
+          "package_name": "com.example.home_cultural_renter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593862575380-hpe0tqbg5c5ohmeh3ingd2sjuhb7umkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LT-pjRRT7zNiRTzboetK5eGKWjm8n0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593862575380-hpe0tqbg5c5ohmeh3ingd2sjuhb7umkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593862575380-5kqkde1inv9cinjjoqfhlf6v7ijn1ulu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locotour"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593862575380:android:040d929f7d4d109a052e01",
+        "android_client_info": {
+          "package_name": "com.example.locotour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593862575380-hpe0tqbg5c5ohmeh3ingd2sjuhb7umkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LT-pjRRT7zNiRTzboetK5eGKWjm8n0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593862575380-hpe0tqbg5c5ohmeh3ingd2sjuhb7umkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593862575380-5kqkde1inv9cinjjoqfhlf6v7ijn1ulu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.locotour"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
